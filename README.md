@@ -77,19 +77,17 @@ for epoch in range(epochs):
   print(f"Epoch [{epoch+1}/{epoch}], Loss: {train_losses[-1]:.4f}")
 
 
-
 ```
 
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
+![Screenshot 2025-04-07 193052](https://github.com/user-attachments/assets/a42558e6-8610-4203-85f4-542dcba2521d)
 
-Include your plot here
 
 ### Predictions 
+![Screenshot 2025-04-07 193057](https://github.com/user-attachments/assets/a2b68bcc-74b7-4ecb-9013-c1e19ffffd2e)
 
-Include the predictions on test data
 
 ## Result
-
-
+Thus, a Recurrent Neural Network model for stock price prediction has successfully been devoloped.
